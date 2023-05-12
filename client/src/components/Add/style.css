@@ -1,0 +1,10 @@
+.add_container {
+  width: 40%;
+  margin: auto;
+  background-color: aliceblue;
+}
+
+.add_container textarea {
+  width: 100%;
+  outline: none;
+}

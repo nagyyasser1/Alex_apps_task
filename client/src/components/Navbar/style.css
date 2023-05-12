@@ -1,0 +1,40 @@
+.navbar_container {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: aliceblue;
+  margin-bottom: 50px;
+}
+
+.nav_header {
+  padding: 10px;
+  width: 100%;
+  text-align: center !important;
+}
+
+.navbar {
+  width: 70%;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.navbar .user_Info {
+  display: flex;
+  align-items: center;
+}
+
+.navbar img {
+  height: 50px;
+}
+
+.actions {
+  display: flex;
+  justify-content: space-between;
+}
+
+.actions div {
+  margin-right: 10px;
+}

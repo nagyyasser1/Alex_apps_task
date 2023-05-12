@@ -1,0 +1,25 @@
+.login_container {
+  width: 40%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: aliceblue;
+  min-height: 50vh;
+}
+
+.login_container div {
+  margin: 20px 0;
+}
+
+.login_dropdown {
+}
+.login_header {
+}
+
+.submitBTN {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
